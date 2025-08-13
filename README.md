@@ -5,6 +5,8 @@
   </a>
 </div>
 
+<img width="1600" height="400" alt="MATHEUS PEDROSO (1)" src="https://github.com/Matheus-Pedroso/Matheus-Pedroso/blob/main/banner.png" />
+
 <h2 align="left"> Um pouco sobre mim: </h2>
 
 - 👩🏻‍💻 22 anos
